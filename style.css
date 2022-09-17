@@ -1,0 +1,11 @@
+#card{
+    flex: row wrap;
+    background-color: blueviolet;
+    height: 700px;
+    width: 500px;
+    border-radius: 20px;
+    position: relative;
+    text-align: center;
+    background-color: blue;
+}
+ 
